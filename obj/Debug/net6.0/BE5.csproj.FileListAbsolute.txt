@@ -1,0 +1,15 @@
+C:\Users\helod\Desktop\BE5\bin\Debug\net6.0\BE5.exe
+C:\Users\helod\Desktop\BE5\bin\Debug\net6.0\BE5.deps.json
+C:\Users\helod\Desktop\BE5\bin\Debug\net6.0\BE5.runtimeconfig.json
+C:\Users\helod\Desktop\BE5\bin\Debug\net6.0\BE5.dll
+C:\Users\helod\Desktop\BE5\bin\Debug\net6.0\BE5.pdb
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.csproj.AssemblyReference.cache
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.AssemblyInfoInputs.cache
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.AssemblyInfo.cs
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.csproj.CoreCompileInputs.cache
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.dll
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\refint\BE5.dll
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.pdb
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\BE5.genruntimeconfig.cache
+C:\Users\helod\Desktop\BE5\obj\Debug\net6.0\ref\BE5.dll
